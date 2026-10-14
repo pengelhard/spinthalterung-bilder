@@ -1,0 +1,2 @@
+# spinthalterung-bilder
+Screenshots Spinthalterung
